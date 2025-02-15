@@ -43,7 +43,7 @@ function Footer() {
                             <h4 className='text-[1.25rem] text-white font-semibold'>Stay up to date</h4>
                             <form action="" className='flex mt-5'>
                                 <div className='relative'>
-                                    <input type="text" className='bg-white/20 text-white text-[0.875rem] px-4 py-2 rounded-md font-semibold' placeholder='Your email address' />
+                                    <input type="text" className='bg-white/20 text-white text-[0.875rem] px-4 py-2 rounded-md ' placeholder='Your email address' />
                                     <button type='submit' className='absolute top-[10px] right-[10px] cursor-pointer text-white '><FaRegPaperPlane /></button>
                                 </div>
                             </form>
